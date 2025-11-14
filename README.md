@@ -32,7 +32,7 @@ A full-stack **Hostel Management System** designed to streamline hostel operatio
 4. **Tools**: VS Code, MySQL Workbench, Draw.io (for diagrams)
 
 ### Project-File
-[`Hostel_Management_System_Report.docx`](Hostel_Management_System_Report.docx)  
+[`Hostel Management System.pdf`](Hostel Management System.pdf)  
 > Download and open the report to view full details, diagrams, and design rationale.
 
 ### How-to-use-this-repository
