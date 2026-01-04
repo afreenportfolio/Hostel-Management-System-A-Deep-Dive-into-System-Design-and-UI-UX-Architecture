@@ -1,5 +1,8 @@
 # Hostel Management System: A Deep Dive into System Design and UI/UX Architecture
 
+- ![Type](https://img.shields.io/badge/Type-Database_Project-purple)
+- ![Status](https://img.shields.io/badge/Status-Legacy_Prototype-lightgrey)
+
 > **Note**: This repository serves as a Comprehensive System Design & Functional Specification Case Study. It documents the end-to-end architectural planning, database modeling, and user-centered design for a high-traffic administrative platform.
 
 ## Project Overview
@@ -52,6 +55,3 @@ Human-Centered Design: Creating interfaces that reduce user error and cognitive 
 
 ## License
 - MIT License
-
-- ![Type](https://img.shields.io/badge/Type-Database_Project-purple)
-- ![Status](https://img.shields.io/badge/Status-Legacy_Prototype-lightgrey)
