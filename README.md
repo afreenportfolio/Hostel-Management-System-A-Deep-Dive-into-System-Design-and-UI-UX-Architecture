@@ -54,4 +54,5 @@ Human-Centered Design: Creating interfaces that reduce user error and cognitive 
 - System Design Reference: Use this as a blueprint for implementing your own administrative management systems.
 
 ## License
-- MIT License
+
+MIT License
